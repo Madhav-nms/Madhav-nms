@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%3A-Data%20Science%20%2F%20Analytics%20%2F%20ML%20Roles-8000FF?style=for-the-badge" alt="Open to: Data Science / Analytics / ML Roles" />
+  <img src="https://img.shields.io/badge/Open%20to%3A-Data%20Science%20%2F%20Analytics%20%2F%20ML%20Roles-8000FF?style=for-the-badge" alt="Open to: Data Science / Analytics Roles" />
 </p>
 
 ---
