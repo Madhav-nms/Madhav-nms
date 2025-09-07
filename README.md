@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=720&lines=Welcome+to+Madhav+Sai+Nalabothu's+GitHub+Portfolio;Data+Science+%7C+Analytics+%7C+ML+Projects;Curious.+Practical.+Impact-Driven." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=720&lines=Welcome+to+Madhav's+GitHub+Portfolio;Data+Science+%7C+Analytics+%7C+ML+Projects;Curious.+Practical.+Impact-Driven." />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## About me
 
-> I’m **Madhav Sai Nalabothu**, a Data Science/Analytics grad student at **Stony Brook University** who loves turning messy, real-world data into clear decisions. I’ve built forecasting, pricing, and risk models across ecommerce, public health, and infrastructure—always with an eye on **business impact** and **clean, reproducible workflows**.
+> I’m **Madhav Sai Nalabothu**, a Computer Engineering grad student specializing in Machine Learning at **Stony Brook University** who loves turning messy, real-world data into clear decisions. I’ve built forecasting, pricing, and risk models across ecommerce, public health, and infrastructure—always with an eye on **business impact** and **clean, reproducible workflows**.
 
 **What I’m into right now**
 - 📈 **Forecasting & Optimization** — demand, pricing, cost
