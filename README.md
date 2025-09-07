@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=720&lines=Welcome+to+Madhav's+GitHub+Portfolio;Data+Science+%7C+Analytics+%7C+ML+Projects." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=720&lines=Welcome+to+Madhav's+GitHub+Portfolio;Data+Science+%7C+Analytics+%7C+ML+Projects" />
 </p>
 
 <p align="center">
-  <img src="./assets/HI.gif"  width="360">
+  <img src="./HI.gif" alt="Hi GIF" width="360">
+
 </p>
 
 
