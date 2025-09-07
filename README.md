@@ -11,13 +11,8 @@
 
 ## About me
 
-> I’m **Madhav Sai Nalabothu**, a Computer Engineering grad student specializing in Machine Learning at **Stony Brook University** who loves turning messy, real-world data into clear decisions. I’ve built forecasting, pricing, and risk models across ecommerce, public health, and infrastructure—always with an eye on **business impact** and **clean, reproducible workflows**.
+> I’m **Madhav Sai Nalabothu**, a Computer Engineering grad student specializing in Machine Learning at **Stony Brook University** who loves turning messy, real-world data into clear decisions. 
 
-**What I’m into right now**
-- 📈 **Forecasting & Optimization** — demand, pricing, cost
-- 🧠 **ML for tabular + text** — XGBoost/LightGBM, NLP basics
-- 🗂️ **Analytics engineering** — SQL-first thinking, tidy data, dashboards
-- 🧪 **Portfolio problem solving** — scarce/real datasets, end-to-end delivery
 
 ---
 
@@ -56,61 +51,6 @@
 
 </p>
 
----
-
-## ⭐ Featured Projects
-
-> Click to expand quick summaries.
-
-<details>
-<summary><b>Amazon Retail Demand Forecasting & Price Optimization</b> — XGBoost, LightGBM, SQL</summary>
-
-- Engineered features from **42K+ product records** (ratings, reviews, discounts, categories) to forecast monthly sales and estimate price elasticity.  
-- Uncovered category-level growth pockets and **inventory/pricing levers** that improved simulated revenue outcomes in scenario tests.
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/amazon-retail-forecasting
-</details>
-
-<details>
-<summary><b>Sneaker Resale Market Analytics</b> — Regression, Ridge, Lasso</summary>
-
-- Built clean, modular pipelines for **sales price prediction** and trend analysis; compared linear vs regularized models for stability.  
-- Delivered actionable insights on **collab effect, brand mix, and seasonality**; designed visuals for non-technical stakeholders.
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/sneaker-resale-analytics
-</details>
-
-<details>
-<summary><b>Dam Construction Cost Estimation</b> — Infra Analytics</summary>
-
-- Aggregated **materials, labor, water supply, area, profit** and other site factors into a bid-estimation model and sanity checks.  
-- Helped translate historicals into **bid guidance** and site-level monitoring metrics for better execution.
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/dam-cost-estimation
-</details>
-
-<details>
-<summary><b>Rare Disease Research: 2013–2023 Trends</b> — Clinical Trials & Diagnoses</summary>
-
-- Ten-year study on **trial activity, diagnostics, and pipeline**; assembled a transparent, reproducible analysis for public health insights.  
-- Dashboard-first storytelling; **documented code + methods** as a portfolio case study.
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/rare-disease-trends
-</details>
-
----
-
-## 💼 Experience Timeline
-
-<p align="center">
-  <a href="#infra-analyst"><img src="https://img.shields.io/badge/2019–2021-Infrastructure%20Analytics-1f6feb?style=for-the-badge"/></a>
-  <a href="#sbu-grad"><img src="https://img.shields.io/badge/2024–2025-SBU%20Grad%20Projects-3fb950?style=for-the-badge"/></a>
-</p>
-
-### 🔹 <a name="infra-analyst"></a> Data Analyst — Infrastructure (Dams)
-- Built cost/bid estimation logic from **multi-factor inputs**; introduced cross-checks and variance flags.  
-- Monitored execution metrics at sites to surface **bottlenecks** and improve throughput.
-
-### 🔹 <a name="sbu-grad"></a> Graduate Projects — Stony Brook University
-- End-to-end analytics and ML projects across ecommerce and public health; emphasis on **reproducible code** and **business-ready insights**.
-
----
 
 ## 📊 GitHub Stats
 
@@ -134,14 +74,14 @@
 ## 🔗 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/nmadhav-sai/">
     <img src="https://img.shields.io/badge/LinkedIn-Madhav%20Sai%20Nalabothu-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:madhavnms@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Madhav-nms">
+    <img src="https://img.shields.io/badge/GitHub-Madhav-nms-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
