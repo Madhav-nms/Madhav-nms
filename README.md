@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="./assets/HI.gif"  width="360">
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20to%3A-Data%20Science%20%2F%20Analytics%20Roles%20and%ML%Roles-00F7FF?style=for-the-badge"/>
 </p>
 
