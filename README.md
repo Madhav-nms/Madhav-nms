@@ -52,25 +52,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">⚡🗂️ Quick Access: Resume</h2>
-
-<p align="center">
-  <a href="./MadhavSaiNalabothu_Resume_2025.pdf" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=500&color=00FFCC&center=true&vCenter=true&width=480&lines=▶️+DOWNLOAD+MY+RESUME" />
-  </a>
-</p>
-
----
-
 ## 🔗 Let’s Connect
 
 <p align="center">
@@ -80,11 +61,6 @@
   <a href="mailto:madhavnms@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Madhav-nms">
-    <img src="https://img.shields.io/badge/GitHub-Madhav-nms-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:000000&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=28" />
 </p>
