@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=720&lines=Welcome+to+Madhav's+GitHub+Portfolio;Data+Science+%7C+Analytics+%7C+ML+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=720&lines=Welcome+to+Madhav's+GitHub+Portfolio;/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%3A-Data%20Science%20%2F%20Analytics%20Roles%20and%ML%Roles-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%3A-Data%20Science%20%2F%20Analytics%20%2F%20ML%20Roles-00F7FF?style=for-the-badge" alt="Open to: Data Science / Analytics / ML Roles" />
 </p>
 
 ---
