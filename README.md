@@ -25,7 +25,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q8XuJjjp1UMgW/giphy.gif" width="500" alt="Machine Learning GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI4dmxwbjJmczdianFhaHA2eGtta2VzZ2o0eTdyOHRkdHVkcGp1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="500" alt="AI Brain GIF"/>
 </p>
 
 <p align="center">
