@@ -25,6 +25,10 @@
 ## 🧠 Tech Stack
 
 <p align="center">
+  <img src="https://media.giphy.com/media/Q8XuJjjp1UMgW/giphy.gif" width="500" alt="Machine Learning GIF"/>
+</p>
+
+<p align="center">
 
   <!-- Programming & Databases -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
