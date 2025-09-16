@@ -53,10 +53,6 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spacy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GGplot-4285F4?style=for-the-badge"/>
 
   <!-- Data Visualization -->
   <br/>
@@ -69,7 +65,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googledocs&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge"/>
 
   <!-- Dev Tools -->
