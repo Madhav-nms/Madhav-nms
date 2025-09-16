@@ -16,8 +16,17 @@
 
 ## About me
 
-> I’m **Madhav Sai Nalabothu**, a Computer Engineering grad student specializing in Machine Learning at **Stony Brook University** who loves turning messy, real-world data into clear decisions. 
+> 💬 “This isn’t just a GitHub — it’s where raw data transforms into stories, strategies, and solutions that shape decisions.”  
 
+I’m **Madhav Sai Nalabothu**, a Computer Engineering graduate student at **Stony Brook University**, specializing in **Machine Learning and Data Analytics**. My journey is driven by curiosity about how **numbers turn into narratives** and how insights can power smarter choices.  
+
+I’m passionate about applying data science to:  
+- 📈 **Uncover business growth opportunities**  
+- 👥 **Enhance customer experiences**  
+- 💵 **Enable smarter financial and strategic decisions**  
+
+
+💡 *“The future belongs to those who turn data into decisions”*  
 
 ---
 
@@ -25,7 +34,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI4dmxwbjJmczdianFhaHA2eGtta2VzZ2o0eTdyOHRkdHVkcGp1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="500" alt="AI Brain GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI4dmxwbjJmczdianFhaHA2eGtta2VzZ2o0eTdyOHRkdHVkcGp1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="200" alt="AI Brain GIF"/>
 </p>
 
 <p align="center">
