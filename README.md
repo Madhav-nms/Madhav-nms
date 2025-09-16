@@ -18,7 +18,7 @@
 
 > 💬 “This isn’t just a GitHub — it’s where raw data transforms into stories, strategies, and solutions that shape decisions.”  
 
-I’m **Madhav Sai Nalabothu**, a Computer Engineering graduate student at **Stony Brook University**, specializing in **Machine Learning and Data Analytics**. My journey is driven by curiosity about how **numbers turn into narratives** and how insights can power smarter choices.  
+I’m **Madhav Sai Nalabothu**, a Computer Engineering graduate student at **Stony Brook University**, specializing in **Machine Learning**. My journey is driven by curiosity about how **numbers turn into narratives** and how insights can power smarter choices.  
 
 I’m passionate about applying data science to:  
 - 📈 **Uncover business growth opportunities**  
