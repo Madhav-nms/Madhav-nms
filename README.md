@@ -34,7 +34,7 @@ I’m passionate about applying data science to:
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI4dmxwbjJmczdianFhaHA2eGtta2VzZ2o0eTdyOHRkdHVkcGp1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="200" alt="AI Brain GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZneWZxZ2V5NmJobWU0dmt5NTBqOHd2N2V6Ynk1bG5tdWI4MXowcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
 <p align="center">
