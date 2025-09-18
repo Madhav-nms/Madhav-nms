@@ -26,7 +26,7 @@ I’m passionate about applying data to:
 - 💵 **Enable smarter financial and strategic decisions**  
 
 
-💡 *“The future belongs to those who turn data into decisions”*  
+💡 *“Every dataset is a story waiting to be told”*  
 
 ---
 
