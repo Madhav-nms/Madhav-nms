@@ -20,7 +20,7 @@
 
 I’m **Madhav Sai Nalabothu**, a Computer Engineering graduate student at **Stony Brook University**, specializing in **Machine Learning**. My journey is driven by curiosity about how **numbers turn into narratives** and how insights can power smarter choices.  
 
-I’m passionate about applying data science to:  
+I’m passionate about applying data to:  
 - 📈 **Uncover business growth opportunities**  
 - 👥 **Enhance customer experiences**  
 - 💵 **Enable smarter financial and strategic decisions**  
